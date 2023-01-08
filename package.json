@@ -9,17 +9,23 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@gorhom/bottom-sheet": "^4.4.5",
     "@react-three/drei": "^9.43.2",
     "@react-three/fiber": "^8.9.1",
+    "@react-three/postprocessing": "^2.7.0",
     "expo": "~47.0.8",
-    "expo-gl": "~12.0.0",
+    "expo-gl": "~12.0.1",
     "expo-status-bar": "~1.4.2",
+    "immer": "^9.0.16",
     "r3f-native-orbitcontrols": "^1.0.4",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-reanimated": "~2.12.0",
     "react-native-web": "~0.18.9",
-    "three": "^0.146.0"
+    "three": "^0.146.0",
+    "use-immer": "^0.8.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
